@@ -1,3 +1,8 @@
+
+
+// ========================== TASK-2 ======================== //
+
+
 class Storage {
   #items;
   constructor(items) {
@@ -14,7 +19,7 @@ class Storage {
   }
 }
 
-// ===== Task-2 ===== //
+
 
 const storage = new Storage(['Nanitoids', 'Prolonger', 'Antigravitator']);
 console.log(storage.getItems()); // ["Nanitoids", "Prolonger", "Antigravitator"]

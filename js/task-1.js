@@ -1,3 +1,8 @@
+
+
+// ===================== TASK-1 ======================== //
+
+
 const customer = {
   username: 'Mango',
   balance: 24000,
@@ -22,7 +27,7 @@ const customer = {
   },
 };
 
-// ===== Task-1 ===== //
+
 
 customer.setDiscount(0.15);
 console.log(customer.getDiscount()); // 0.15

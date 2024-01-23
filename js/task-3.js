@@ -1,3 +1,8 @@
+
+
+// ============================ TASK-3 ======================= //
+
+
 class StringBuilder {
   #value;
 
@@ -19,7 +24,7 @@ class StringBuilder {
   }
 }
 
-// ===== Task-3 ===== //
+
 
 const builder = new StringBuilder('.');
 console.log(builder.getValue()); // "."
